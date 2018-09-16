@@ -1,2 +1,2 @@
 # strings
-Programs realets to strings
+Programs related to strings
