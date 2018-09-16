@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int ans=0;
+    int ans=0;                         // string and pattern matching in O(N) 
     string s,s1;
     cin>>s>>s1;
     string s2;
